@@ -30,7 +30,7 @@ export default function HeroSection() {
 
         <div className="block lg:hidden text-center px-4">
 		  <p className="text-[12px] text-gray-500 mt-4">
-			By clicking "Get Started", you agree with Terms and Conditions, Privacy Policy, Subscription Terms
+		    {`By clicking "Get Started", you agree with Terms and Conditions, Privacy Policy, Subscription Terms`}
 		  </p>
 		  <p className="text-xs text-gray-500 mt-4">
 			Fametonic 2025 © All Rights Reserved.
@@ -59,7 +59,7 @@ export default function HeroSection() {
 		<div className="hidden lg:block mt-4">
 		  <p className="text-xs sm:ml-10">1-minute quiz for personalized insights</p>
 		  <p className="text-[12px] text-gray-500 mt-4">
-		    By clicking "Get Started", you agree with Terms and Conditions, Privacy Policy, Subscription Terms
+		    {`By clicking "Get Started", you agree with Terms and Conditions, Privacy Policy, Subscription Terms`}
 		  </p>
 		  <p className="text-xs text-gray-500 mt-4">
 		    Fametonic 2025 © All Rights Reserved.
